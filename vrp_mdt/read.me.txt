@@ -1,0 +1,4 @@
+1. Ranget som skal modtage notifikationer, skal have permissionen "police.pc".
+2. Indsæt SQL filen i din database.
+3. Installer requirements (msql-async & async)
+4. Start async, mysql-async og vrp_mdt i din servers konfirgurations fil.
